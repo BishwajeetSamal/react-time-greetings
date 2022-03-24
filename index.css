@@ -1,0 +1,26 @@
+* {
+  border-style: border-box;
+}
+
+body {
+  background-color: rgba(82, 202, 202, 0.829);
+}
+
+.maindiv {
+  text-align: center;
+  background-color: bisque;
+  width: 30rem;
+  margin: 19rem auto;
+  border-radius: 2rem;
+  padding: 0.2rem;
+}
+
+.maindiv p {
+  font-size: 2.2rem;
+  font-weight: 600;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.initial_name {
+  color: #ff9a8d;
+}
